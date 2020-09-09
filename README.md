@@ -7,8 +7,8 @@
 
 Below is an interactive graph created using [Plotly Chart Studio](https://chart-studio.plotly.com/) to show how dissolved oxygen concentration increased over time due to improvements to wastewater treatment.
 
-![image of dissolved oxygen graph](https://github.com/chelleorc/DissolvedOxygenGraph/blob/master/fig.jpeg?raw=true)
-![Image of dissolved oxygen table](https://github.com/chelleorc/DissolvedOxygenGraph/blob/master/Table_JB_DO.png?raw=true)
+![image of dissolved oxygen graph](https://github.com/chelleorc/chelleorc.github.io/blob/master/fig.jpeg)
+![Image of dissolved oxygen table](https://github.com/chelleorc/chelleorc.github.io/blob/master/Table_JB_DO.png)
 
 Click [Jamaica Bay Dissolved Oxygen Data](https://github.com/chelleorc/DissolvedOxygenGraph.git) to view the program on GitHub.
 
