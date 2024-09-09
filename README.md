@@ -1,16 +1,6 @@
-## Welcome to My Projects Site
+## Welcome to the Undergraduates Guide to Computational Materials
+
+This guide is for undergraduate students in physics, chemistry, computater science, or anyone who's interested in learning how to use quantum mechanics to study the energy of materials. It will include the theory needed to begin understanding computational materials (because it's a big field), the software packages and code snippets used to help you get started on your journey, and the next steps to continue your journey including more advanced tutorials, organizations, and my advice on how to enter this field.
 
 
-### Here you will find various python projects I am either working on or have completed as I develop my computational physics skills. 
 
-*Jamaica Bay Dissolved Oxygen from 1942 - 2020*
-
-Below is an interactive graph created using [Plotly Chart Studio](https://chart-studio.plotly.com/) to show how dissolved oxygen concentration increased over time due to improvements to wastewater treatment.
-
-![image of dissolved oxygen graph](https://github.com/chelleorc/chelleorc.github.io/blob/master/fig.jpeg)
-![Image of dissolved oxygen table](https://github.com/chelleorc/chelleorc.github.io/blob/master/Table_JB_DO.png)
-
-Click [Jamaica Bay Dissolved Oxygen Data](https://github.com/chelleorc/DissolvedOxygenGraph.git) to view the program on GitHub.
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
